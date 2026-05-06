@@ -1,4 +1,4 @@
-import { Stack } from "@mui/material";
+ import { Stack } from "@mui/material";
 import Head from "next/head";
 
 const withLayoutMain = (Component: any) => {
