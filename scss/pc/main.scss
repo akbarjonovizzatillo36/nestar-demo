@@ -357,6 +357,37 @@
       }
     }
   }
+
+  .header-basic {
+    position: relative;
+    width: 100%;
+    height: 500px;
+
+    .container {
+      position: relative;
+      margin-top: 200px;
+      flex-direction: column;
+
+      strong {
+        color: #ffffff;
+        font-family: $font;
+        font-size: 55px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: capitalize;
+      }
+
+      span {
+        color: #ffffff;
+        font-family: $font;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+    }
+  }
 }
 
 #footer {
