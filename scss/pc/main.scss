@@ -1,6 +1,10 @@
 /** IMPORTS **/
 @import '../variables.scss';
+
 @import './homepage/homepage.scss';
+@import './property/detail.scss';
+@import './property/property.scss';
+
 #pc-wrap {
   #top {
     .navbar {
