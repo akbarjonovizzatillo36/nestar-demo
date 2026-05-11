@@ -1,4 +1,4 @@
-// libs/config.ts
+
 
 export const propertySquare: number[] = [
   0, 25, 50, 75, 100, 150, 200, 250, 300, 350, 400, 450, 500,
